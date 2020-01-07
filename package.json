@@ -1,12 +1,12 @@
 {
   "name": "lastcall-artifact.sh",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "license": "MIT",
   "files": [
     "./artifact.sh"
   ],
   "bin": {
-    "artifactsh": "./artifact.sh"
+    "artifact.sh": "./artifact.sh"
   },
   "dependencies": {
   },
