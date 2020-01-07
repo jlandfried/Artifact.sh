@@ -1,6 +1,5 @@
 {
   "name": "lastcall-artifact.sh",
-  "version": "0.2.6",
   "license": "MIT",
   "files": [
     "./artifact.sh"
