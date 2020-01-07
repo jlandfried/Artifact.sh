@@ -6,7 +6,7 @@
     "./artifact.sh"
   ],
   "bin": {
-    "artifact.sh": "./artifact.sh"
+    "artifactsh": "./artifact.sh"
   },
   "dependencies": {
   },
